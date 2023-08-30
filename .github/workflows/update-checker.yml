@@ -12,8 +12,8 @@
 name: Update Checker
 
 env:
-  REPO_URL: https://github.com/LLE2222/lede111
-  REPO_BRANCH: master
+  REPO_URL: https://github.com/LLE2222/gl-mt7981
+  REPO_BRANCH: main
 
 on:
   workflow_dispatch:
